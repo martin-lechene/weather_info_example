@@ -1,0 +1,1 @@
+cfonts "Voici la méteo :" -f console -a center -c blueBright   && sleep 1 && curl wttr.in && sleep 60 && clear
